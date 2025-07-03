@@ -1,0 +1,8 @@
+{
+  "name": "hr-api",
+  "version": "1.0.0",
+  "description": "HR Management System API for Vercel",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+} 
